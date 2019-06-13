@@ -1,0 +1,3 @@
+[submodule "Xenko"]
+	path = Xenko
+	url = https://github.com/communityus-branch/Xenko.git
